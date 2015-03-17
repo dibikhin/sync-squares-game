@@ -1,0 +1,24 @@
+﻿.square { 
+	width: 150px; 
+	height: 150px; 
+	padding: 0.5em; 
+	background-color: darkseagreen;
+	border: solid black 2px;
+	display: none;
+	text-align: center;
+	line-height: 150px;
+}
+
+.player-list {
+	height: 90vh;		
+	float: right;
+	padding: 0.5em;
+	width: 150px;		
+	border: solid black 2px;
+	background-color: lightgray;
+}
+
+.game-field {
+	height: 95vh;
+	width: 85%;
+}
